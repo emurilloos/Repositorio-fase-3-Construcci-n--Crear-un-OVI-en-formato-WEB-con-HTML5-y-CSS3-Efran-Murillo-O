@@ -1,0 +1,51 @@
+/*
+color fondo: #632432;
+color header: #246355;
+color borde: 0f3620;
+color iluminado: 369681;
+*/
+
+body{
+	background-color: #ffa500;
+	font-family: franklin;
+}
+	#main-container{
+		margin: 385px auto;
+		width: 900px;
+}
+title{
+	background-color: #246355;
+	font-family: franklin;
+	color: #246355;
+
+}
+table, H2, H1{
+	background-color: WHITE;
+	text-align: center;
+	border-collapse: collapse;
+	width: 100%;
+	font-size: 18px;
+}
+th, td{
+	
+	padding: 20px;
+
+}
+
+thead{
+	background-color: #246355;
+	border-bottom: solid 5px #0F362d;
+	color: White;
+}
+tr:nth-child(even){
+	background-color: #ddd;
+}
+tr:hover td{
+	background-color: #369681;
+	color: white;
+
+}
+footer{
+	color: white;
+	text-align: center;
+}

@@ -1,0 +1,27 @@
+/*****************************
+ All rights reserved.
+ AllFont.net (c) 2011-2015
+ *****************************/
+   @import url(http://allfont.es/allfont.css?fonts=disko);
+
+/*****************************
+ All rights reserved.
+ www.allfont.de (c) 2011-2015
+ *****************************/
+@font-face {
+    font-family: 'Disko';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Disko'), local('Disko-Regular'),
+        url(http://www.allfont.de/cache/fonts/disko_aaae175ec9ac83c7933f16be51915eee.woff) format('woff'),
+        url(http://www.allfont.de/cache/fonts/disko_aaae175ec9ac83c7933f16be51915eee.ttf) format('truetype');
+}
+header	{font-family: 'Franklin Gothic Medium Italic';
+
+
+color:#ffff;
+	margin: 0.25em auto;
+	max-width: 960px;
+	border-radius: 0.5em;
+	padding: 0.25em;
+	text-align: center;

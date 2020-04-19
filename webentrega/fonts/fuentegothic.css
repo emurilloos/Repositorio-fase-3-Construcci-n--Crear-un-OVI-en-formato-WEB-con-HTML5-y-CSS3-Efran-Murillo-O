@@ -1,0 +1,17 @@
+/*****************************
+ All rights reserved.
+ AllFont.net (c) 2011-2015
+ *****************************/
+ 
+@font-face {
+    font-family: 'Franklin Gothic Medium Italic';
+    font-style: italic;
+    font-weight: 400;
+    src: local('Franklin Gothic Medium Italic'), local('FranklinGothicMedium-Italic'),
+        url(C:\Users\EMO\Desktop\0 UNAD 1 2019\DISEÑO DE SITIOS WEB\0 ENTREGAS\MisegundaWeb\FONTS\fuente1.css) format('woff'),
+        url(C:\Users\EMO\Desktop\0 UNAD 1 2019\DISEÑO DE SITIOS WEB\0 ENTREGAS\MisegundaWeb\FONTS\fuente1.css) format('truetype');
+}
+header	{font-family: 'Franklin Gothic Medium Italic', sans-serif;
+}
+section	{font-family: 'Franklin Gothic Medium Italic', sans-serif;
+}
